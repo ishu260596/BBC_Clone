@@ -1,5 +1,5 @@
 # BBC
-<h1 align="center">Uber App</h1>
+<h1 align="center">BBC NEWS</h1>
 <p align="center">  
 Uber is a taxi booking application a user can signup as a driver or as rider in driver or rider app respectively. The app allows users to booking taxi and move and see the directions on maps slots, the app uses firebase for the backend.
 </p>
