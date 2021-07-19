@@ -16,7 +16,7 @@ from all over the world for categories like tech, business, medical, etc.
 - Kotlin
 </br>
 <br>
-- [Sprig Boot] - for stroing and retrieving news according to the user choice like National or Internationa, Sports tech news etc.  
+- [Sprig Boot] - as backend for creating the RestAPIs.  
 </br>
 <br>
 - [MySQL] - for stroing the data.  
